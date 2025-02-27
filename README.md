@@ -7,6 +7,9 @@ Hands On ReactJS With NextJS
 
     https://vercel.com/signup
     
+    pnpm i use-debounce
+
+    pnpm i next-auth@beta
 
 ### Steps 
 
